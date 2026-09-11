@@ -6,7 +6,7 @@ I build scalable digital products, lead engineering teams, and turn ideas into p
 
 My background is primarily in **mobile engineering and technical leadership**, with experience across Android, iOS, Flutter, backend systems, cloud infrastructure, SaaS platforms, AI-assisted development, and workflow automation.
 
-Currently, I'm focused on building products and systems that combine **software engineering, automation, and AI**.
+Currently, I'm focused on building products and systems that combine **software engineering, automation, AI, and sustainability**.
 
 ---
 
@@ -32,6 +32,8 @@ A SaaS clinic management platform designed to help clinics manage their operatio
 
 **Tech:** React • Firebase • GCP • PostHog • Loops • AI Automation
 
+🌐 **https://cliniqa360.com**
+
 ---
 
 ### ⚡ StrataLabs
@@ -49,7 +51,25 @@ We build:
 * Landing Pages
 * API Integrations
 
-🌐 **stratalabs.com.ph**
+🌐 **https://stratalabs.com.ph**
+
+---
+
+### ♻️ Cirkulo+
+
+A technology-driven circular economy initiative focused on making sustainability and responsible waste management more accessible to businesses and communities.
+
+Cirkulo+ explores the intersection of:
+
+* Circular Economy
+* Extended Producer Responsibility (EPR)
+* Recycling & Waste Recovery
+* Sustainability Technology
+* Environmental Data
+* Digital Incentives
+* Business Sustainability Programs
+
+My work with Cirkulo+ combines **technology, sustainability, and product development** to help create systems where waste can be tracked, recovered, and returned to productive use.
 
 ---
 
@@ -118,6 +138,7 @@ System Design
 AI-assisted Development
 Workflow Automation
 Product Engineering
+Sustainability Technology
 ```
 
 ---
@@ -152,9 +173,9 @@ I like building systems that are:
 
 ---
 
-## 🏗 Selected Projects
+## 🏗 Selected Projects & Ventures
 
-### Cliniqa360
+### 🏥 Cliniqa360
 
 `SaaS • Healthcare • Automation • Analytics • AI`
 
@@ -162,17 +183,21 @@ End-to-end clinic operations platform covering appointments, patients, POS, inve
 
 ---
 
-### StrataLabs Template Platform
+### ⚡ StrataLabs
 
-`React • Automation • GitHub • AI-assisted Development`
+`Software Development • Automation • AI • SaaS`
 
-A reusable development system for rapidly creating customized business websites from industry-specific templates.
+A software and automation studio focused on building business websites, SaaS applications, internal tools, integrations, and reusable development systems.
 
 ---
 
-### Circular Economy Platforms
+### ♻️ Cirkulo+
 
-I've also worked on technology initiatives focused on **sustainability, recycling, circular economy, and Extended Producer Responsibility (EPR)**.
+`Circular Economy • EPR • Sustainability • Technology`
+
+A circular economy venture focused on using technology to support recycling, waste recovery, sustainability programs, and Extended Producer Responsibility initiatives.
+
+The goal is to help bridge **businesses, communities, recyclers, and sustainability programs** through technology-driven systems.
 
 ---
 
@@ -188,4 +213,31 @@ Beyond coding, I've worked as a technical lead responsible for:
 * Technical knowledge-sharing sessions
 * Delivery planning
 * Production issue resolution
-* Cross-functional collabor
+* Cross-functional collaboration
+* Improving development workflows
+
+---
+
+## 📈 What I'm Exploring
+
+Currently exploring more around:
+
+```text
+AI Agents
+LLM Orchestration
+Agentic Software Development
+Developer Tooling
+Workflow Automation
+Vertical SaaS
+Micro SaaS
+AI-powered Business Software
+Productized Software Services
+Circular Economy Technology
+Sustainability Platforms
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in conversati
