@@ -12,7 +12,7 @@ Currently building **Cliniqa360**, **StrataLabs**, and **Cirkulo+**.
 [![Cliniqa360](https://img.shields.io/badge/Cliniqa360-Clinic%20SaaS-2563EB?style=flat-square)](https://cliniqa360.com)
 [![Cirkulo+](https://img.shields.io/badge/Cirkulo%2B-Circular%20Economy-16A34A?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:benjoe22@gmail.com)
 
 </div>
 
