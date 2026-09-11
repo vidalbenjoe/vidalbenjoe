@@ -1,14 +1,21 @@
-# Hi, I'm Benjoe 👋
+<div align="center">
 
-**Software Engineer • Technical Lead • SaaS Builder • Founder**
+# Hi, I'm Benjoe Vidal 👋
 
-I build scalable digital products, lead engineering teams, and turn ideas into production-ready software.
+### Software Engineer • Technical Lead • SaaS Builder • Founder
 
-My background is primarily in **mobile engineering and technical leadership**, with experience across Android, iOS, Flutter, backend systems, cloud infrastructure, SaaS platforms, AI-assisted development, and workflow automation.
+I build scalable software products, lead engineering teams, and create practical systems across mobile, web, AI automation, and vertical SaaS.
 
-Currently, I'm focused on building products and systems that combine **software engineering, automation, AI, and sustainability**.
+Currently building **Cliniqa360**, **StrataLabs**, and **Cirkulo+**.
 
----
+[![StrataLabs](https://img.shields.io/badge/StrataLabs-Software%20%26%20Automation%20Studio-0F172A?style=flat-square)](https://stratalabs.com.ph)
+[![Cliniqa360](https://img.shields.io/badge/Cliniqa360-Clinic%20SaaS-2563EB?style=flat-square)](https://cliniqa360.com)
+[![Cirkulo+](https://img.shields.io/badge/Cirkulo%2B-Circular%20Economy-16A34A?style=flat-square)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
 
 ## 🚀 What I'm Building
 
